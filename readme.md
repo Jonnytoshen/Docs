@@ -5,3 +5,6 @@
 ### Postgresql
 - [postgresql导出导入](https://github.com/Jonnytoshen/Docs/blob/master/Postgresql/postgresql导出导入.md)
 - [修改postgres密码](https://github.com/Jonnytoshen/Docs/blob/master/Postgresql/修改postgres密码.md)
+
+### Mysql
+- [mysql的使用](https://github.com/Jonnytoshen/Docs/blob/master/Mysql/mysql的使用.md)
